@@ -1,3 +1,3 @@
 # smartbrain-api
 
-Project appurl- https://smartbrain97.herokuapp.com
+Project app URL- https://smartbrain97.herokuapp.com
